@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: ctec.tk
+Disallow: /
+Disallow: /admin
+Disallow: /filemanager
